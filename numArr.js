@@ -1,4 +1,5 @@
 const numbers = ['5688848', '34593834', '4902348020', '56578922']
+// Collect numbers that has 3 or 4 same digits
 const resultArr = []
 
 numbers.map(num => {
